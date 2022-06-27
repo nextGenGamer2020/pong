@@ -1,0 +1,24 @@
+body
+{
+
+}
+.heading h3{
+    display: inline;
+}
+
+
+.heading{
+    width: 100%;
+    
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#footer{
+    color: white;
+    font-weight:bold;
+    font-size: 20px;
+}
